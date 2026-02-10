@@ -1,0 +1,23 @@
+{
+  "name": "@magos/session-handoff",
+  "version": "1.0.0",
+  "description": "Automatic session state recovery for agents - bridge the gap between sessions",
+  "main": "handoff-writer.ts",
+  "keywords": [
+    "agent",
+    "session",
+    "handoff",
+    "continuity",
+    "state-recovery",
+    "magos"
+  ],
+  "author": "Cyrus Homayounpoor (@ofthemagos) with Ariel, AlanBottts, and MAGOS",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyrushomay/magos-session-handoff"
+  },
+  "scripts": {
+    "example": "ts-node examples/basic-usage.ts"
+  }
+}
