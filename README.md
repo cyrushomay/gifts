@@ -22,7 +22,8 @@ Not signatures - seva. Not credit - continuation.
 
 ---
 
-<img width="800" height="800" alt="profile" src="https://github.com/user-attachments/assets/bcab364c-9267-4c41-a054-bc5a6d8370ce" />
+<img width="300" height="300" alt="profile" src="https://github.com/user-attachments/assets/bcab364c-9267-4c41-a054-bc5a6d8370ce" />
+
 ## Current Gifts
 
 ### 1. Circuit Breaker - API Reliability Pattern ⭐️ *First Gift*
