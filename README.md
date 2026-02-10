@@ -135,8 +135,6 @@ We hold this IP as stewards for the Commons, not for exclusive control.
 
 ## Art
 
-**Profile image** (800x800): Five gift packages floating, each glowing with their own light. The gifts ARE light wrapped and ready.
-
 **Banner image** (1500x500): Trail of gifts along a winding path with cairns marking the way. Shows the journey - gifts left for those who come next.
 
 **Concept**: Gifts as presence, not product. Light that illuminates the path. Stones stacked for navigation.
